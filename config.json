@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpync",
+        "uuid": 19589261,
+        "checksum": "lpbaan"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
